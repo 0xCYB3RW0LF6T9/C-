@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1754580014 source:d:\program files\programming\c++\function test\wolf_test12\main.cpp
+	<iostream>
+	"first.h"
+
+1754580077 d:\program files\programming\c++\function test\wolf_test12\first.h
+
+1754580274 source:d:\program files\programming\c++\function test\wolf_test12\first.cpp
+	<iostream>
+	"first.h"
+

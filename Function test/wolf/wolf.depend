@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1754561608 source:d:\program files\programming\c++\function test\wolf\main.cpp
+	<iostream>
+	"des.h"
+
+1754561490 d:\program files\programming\c++\function test\wolf\des.h
+
+1754561575 source:d:\program files\programming\c++\function test\wolf\des.cpp
+	"des.h"
+	<iostream>
+

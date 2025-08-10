@@ -1,0 +1,61 @@
+1.cout+ basic structure
+2=> Escape sequence--> \n,\t
+3=>comments
+4=>variables keywords and rules of variables
+5=> declaring variable
+6=> string variable
+7= >user input ----> cin
+8=>arithmetic oiperatiors
+9=> float function - #include<iomanip>
+		showpoint , noshowpoint , stew(), fixed, setprecision()
+10=>area of triangle
+11=> temp conversion
+12=>assignment operators 
+13=>unary orepator 
+14=>bitwise 
+16=>speical operator
+18=>relational operator
+19=>if statement
+20+21 => else if,else
+
+22=> even odd + large small + pass fail+ absolute number
+23 => latter grade
+24=> logical operator
+25=> vowel consonant ---->toupper(),tolower()
+26=> large and small among 3 numbers
+27=> leap year
+28=> nested if else
+29=>conditional operator
+30=>switch 
+31=>ternary operator
+31=>vowel consonant switch;
+32=>for loop
+33=>while loop
+34=>do while loop
+35=>break continue
+36=>data types and modifiers
+37=> array
+38=>array input
+
+39=>student table
+40=>Types of array=>1D,2D,3D
+40=>array passed to function
+
+41=>pointer
+42=>function
+43=> random  number -----> rand()-->#inlude<stdlib.h>
+44=>guessing game
+45=>function overloading
+46=recursion
+47=>call by value call by reference
+48=>gets 
+49=>local functoion global function =sopping--> ::	
+
+50==>oop=>i)class and object ii)inheritance iii)abstraction iv)encapsulation v)polymorphism
+51=>class object + function 
+52=>set +parameterized function 
+23->class from other file 
+
+54=> constant variable;
+55=> constant class --> non-const class can't be called using constant class
+

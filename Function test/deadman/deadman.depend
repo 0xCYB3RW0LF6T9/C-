@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1754624178 source:d:\program files\programming\c++\function test\deadman\fr.cpp
+	<iostream>
+	"fr.h"
+
+1754624178 d:\program files\programming\c++\function test\deadman\fr.h
+
+1754624115 source:d:\program files\programming\c++\function test\deadman\main.cpp
+	<iostream>
+	"fr.h"
+
